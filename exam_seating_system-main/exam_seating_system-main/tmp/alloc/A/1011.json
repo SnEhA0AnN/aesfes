@@ -1,0 +1,221 @@
+[
+    {
+        "seat_id": "1",
+        "name": "Daniel Roberts",
+        "roll": "CSE025",
+        "subject_code": "CSE101",
+        "branch": "CSE",
+        "row": 1,
+        "column": 1
+    },
+    {
+        "seat_id": "7",
+        "name": "Henry Edwards",
+        "roll": "CSE027",
+        "subject_code": "CSE103",
+        "branch": "CSE",
+        "row": 1,
+        "column": 2
+    },
+    {
+        "seat_id": "13",
+        "name": "Grace Phillips",
+        "roll": "CSE026",
+        "subject_code": "CSE101",
+        "branch": "CSE",
+        "row": 1,
+        "column": 3
+    },
+    {
+        "seat_id": "19",
+        "name": "Avery Turner",
+        "roll": "CSE028",
+        "subject_code": "CSE102",
+        "branch": "CSE",
+        "row": 1,
+        "column": 4
+    },
+    {
+        "seat_id": "2",
+        "name": "Jackson Torres",
+        "roll": "CSE029",
+        "subject_code": "CSE101",
+        "branch": "CSE",
+        "row": 1,
+        "column": 5
+    },
+    {
+        "seat_id": "8",
+        "name": "Sofia Evans",
+        "roll": "CSE030",
+        "subject_code": "CSE103",
+        "branch": "CSE",
+        "row": 1,
+        "column": 6
+    },
+    {
+        "seat_id": "14",
+        "name": "Sebastian Garcia",
+        "roll": "CSE031",
+        "subject_code": "CSE101",
+        "branch": "CSE",
+        "row": 2,
+        "column": 1
+    },
+    {
+        "seat_id": "20",
+        "name": "Aiden Scott",
+        "roll": "CSE033",
+        "subject_code": "CSE102",
+        "branch": "CSE",
+        "row": 2,
+        "column": 2
+    },
+    {
+        "seat_id": "3",
+        "name": "Chloe Mitchell",
+        "roll": "CSE032",
+        "subject_code": "CSE101",
+        "branch": "CSE",
+        "row": 2,
+        "column": 3
+    },
+    {
+        "seat_id": "9",
+        "name": "Lily Adams",
+        "roll": "CSE036",
+        "subject_code": "CSE103",
+        "branch": "CSE",
+        "row": 2,
+        "column": 4
+    },
+    {
+        "seat_id": "15",
+        "name": "Scarlett Baker",
+        "roll": "CSE034",
+        "subject_code": "CSE101",
+        "branch": "CSE",
+        "row": 2,
+        "column": 5
+    },
+    {
+        "seat_id": "21",
+        "name": "Samuel Rivera",
+        "roll": "CSE037",
+        "subject_code": "CSE102",
+        "branch": "CSE",
+        "row": 2,
+        "column": 6
+    },
+    {
+        "seat_id": "4",
+        "name": "Matthew Nelson",
+        "roll": "CSE035",
+        "subject_code": "CSE101",
+        "branch": "CSE",
+        "row": 3,
+        "column": 1
+    },
+    {
+        "seat_id": "10",
+        "name": "David Carter",
+        "roll": "ELE001",
+        "subject_code": "EE103",
+        "branch": "ELE",
+        "row": 3,
+        "column": 2
+    },
+    {
+        "seat_id": "16",
+        "name": "Zoey Campbell",
+        "roll": "CSE038",
+        "subject_code": "CSE101",
+        "branch": "CSE",
+        "row": 3,
+        "column": 3
+    },
+    {
+        "seat_id": "22",
+        "name": "Madison Ramirez",
+        "roll": "ELE002",
+        "subject_code": "EE103",
+        "branch": "ELE",
+        "row": 3,
+        "column": 4
+    },
+    {
+        "seat_id": "5",
+        "name": "Carter Reed",
+        "roll": "ELE003",
+        "subject_code": "EE101",
+        "branch": "ELE",
+        "row": 3,
+        "column": 5
+    },
+    {
+        "seat_id": "11",
+        "name": "Penelope Parker",
+        "roll": "ELE004",
+        "subject_code": "EE102",
+        "branch": "ELE",
+        "row": 3,
+        "column": 6
+    },
+    {
+        "seat_id": "17",
+        "name": "Mateo Gray",
+        "roll": "ELE005",
+        "subject_code": "EE103",
+        "branch": "ELE",
+        "row": 4,
+        "column": 1
+    },
+    {
+        "seat_id": "23",
+        "name": "Wyatt Bennett",
+        "roll": "ELE007",
+        "subject_code": "EE102",
+        "branch": "ELE",
+        "row": 4,
+        "column": 2
+    },
+    {
+        "seat_id": "6",
+        "name": "Victoria James",
+        "roll": "ELE006",
+        "subject_code": "EE103",
+        "branch": "ELE",
+        "row": 4,
+        "column": 3
+    },
+    {
+        "seat_id": "12",
+        "name": "Riley Wright",
+        "roll": "ELE008",
+        "subject_code": "EE101",
+        "branch": "ELE",
+        "row": 4,
+        "column": 4
+    },
+    {
+        "seat_id": "18",
+        "name": "Jack Cooper",
+        "roll": "ELE009",
+        "subject_code": "EE103",
+        "branch": "ELE",
+        "row": 4,
+        "column": 5
+    },
+    {
+        "seat_id": "24",
+        "name": "Nora Collins",
+        "roll": "ELE010",
+        "subject_code": "EE101",
+        "branch": "ELE",
+        "row": 4,
+        "column": 6
+    },
+    {
+        "invigilator": "Prof. Meera Patel"
+    }
+]

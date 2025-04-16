@@ -1,0 +1,221 @@
+[
+    {
+        "seat_id": "1",
+        "name": "Josiah Fisher",
+        "roll": "ELE035",
+        "subject_code": "EE101",
+        "branch": "ELE",
+        "row": 1,
+        "column": 1
+    },
+    {
+        "seat_id": "7",
+        "name": "Kylie Woods",
+        "roll": "ELE036",
+        "subject_code": "EE102",
+        "branch": "ELE",
+        "row": 1,
+        "column": 2
+    },
+    {
+        "seat_id": "13",
+        "name": "Christian Simmons",
+        "roll": "ELE037",
+        "subject_code": "EE101",
+        "branch": "ELE",
+        "row": 1,
+        "column": 3
+    },
+    {
+        "seat_id": "19",
+        "name": "Landon Fisher",
+        "roll": "MEC001",
+        "subject_code": "ME101",
+        "branch": "MEC",
+        "row": 1,
+        "column": 4
+    },
+    {
+        "seat_id": "2",
+        "name": "Elena Barnes",
+        "roll": "ELE038",
+        "subject_code": "EE101",
+        "branch": "ELE",
+        "row": 1,
+        "column": 5
+    },
+    {
+        "seat_id": "8",
+        "name": "Alexa Woods",
+        "roll": "MEC002",
+        "subject_code": "ME102",
+        "branch": "MEC",
+        "row": 1,
+        "column": 6
+    },
+    {
+        "seat_id": "14",
+        "name": "Jonathan Simmons",
+        "roll": "MEC003",
+        "subject_code": "ME102",
+        "branch": "MEC",
+        "row": 2,
+        "column": 1
+    },
+    {
+        "seat_id": "20",
+        "name": "Makayla Barnes",
+        "roll": "MEC004",
+        "subject_code": "ME103",
+        "branch": "MEC",
+        "row": 2,
+        "column": 2
+    },
+    {
+        "seat_id": "3",
+        "name": "Hunter Fisher",
+        "roll": "MEC005",
+        "subject_code": "ME102",
+        "branch": "MEC",
+        "row": 2,
+        "column": 3
+    },
+    {
+        "seat_id": "9",
+        "name": "Aaliyah Woods",
+        "roll": "MEC006",
+        "subject_code": "ME101",
+        "branch": "MEC",
+        "row": 2,
+        "column": 4
+    },
+    {
+        "seat_id": "15",
+        "name": "Londyn Barnes",
+        "roll": "MEC008",
+        "subject_code": "ME102",
+        "branch": "MEC",
+        "row": 2,
+        "column": 5
+    },
+    {
+        "seat_id": "21",
+        "name": "Eli Simmons",
+        "roll": "MEC007",
+        "subject_code": "ME101",
+        "branch": "MEC",
+        "row": 2,
+        "column": 6
+    },
+    {
+        "seat_id": "4",
+        "name": "Aaron Fisher",
+        "roll": "MEC009",
+        "subject_code": "ME103",
+        "branch": "MEC",
+        "row": 3,
+        "column": 1
+    },
+    {
+        "seat_id": "10",
+        "name": "Connor Simmons",
+        "roll": "MEC011",
+        "subject_code": "ME102",
+        "branch": "MEC",
+        "row": 3,
+        "column": 2
+    },
+    {
+        "seat_id": "16",
+        "name": "Gabriella Woods",
+        "roll": "MEC010",
+        "subject_code": "ME103",
+        "branch": "MEC",
+        "row": 3,
+        "column": 3
+    },
+    {
+        "seat_id": "22",
+        "name": "Ayla Barnes",
+        "roll": "MEC012",
+        "subject_code": "ME101",
+        "branch": "MEC",
+        "row": 3,
+        "column": 4
+    },
+    {
+        "seat_id": "5",
+        "name": "Naomi Woods",
+        "roll": "MEC014",
+        "subject_code": "ME103",
+        "branch": "MEC",
+        "row": 3,
+        "column": 5
+    },
+    {
+        "seat_id": "11",
+        "name": "Charles Fisher",
+        "roll": "MEC013",
+        "subject_code": "ME101",
+        "branch": "MEC",
+        "row": 3,
+        "column": 6
+    },
+    {
+        "seat_id": "17",
+        "name": "Evan Simmons",
+        "roll": "MEC015",
+        "subject_code": "ME103",
+        "branch": "MEC",
+        "row": 4,
+        "column": 1
+    },
+    {
+        "seat_id": "23",
+        "name": "Arianna Barnes",
+        "roll": "MEC016",
+        "subject_code": "ME102",
+        "branch": "MEC",
+        "row": 4,
+        "column": 2
+    },
+    {
+        "seat_id": "6",
+        "name": "Eli Fisher",
+        "roll": "MEC017",
+        "subject_code": "ME103",
+        "branch": "MEC",
+        "row": 4,
+        "column": 3
+    },
+    {
+        "seat_id": "12",
+        "name": "Valeria Woods",
+        "roll": "MEC018",
+        "subject_code": "ME102",
+        "branch": "MEC",
+        "row": 4,
+        "column": 4
+    },
+    {
+        "seat_id": "18",
+        "name": "Jaxon Simmons",
+        "roll": "MEC019",
+        "subject_code": "ME101",
+        "branch": "MEC",
+        "row": 4,
+        "column": 5
+    },
+    {
+        "seat_id": "24",
+        "name": "Jaxon Fisher",
+        "roll": "MEC021",
+        "subject_code": "ME103",
+        "branch": "MEC",
+        "row": 4,
+        "column": 6
+    },
+    {
+        "invigilator": "Prof. Deepa Reddy"
+    }
+]

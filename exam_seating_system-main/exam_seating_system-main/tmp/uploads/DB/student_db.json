@@ -1,0 +1,914 @@
+[
+    {
+        "name": "Ethan Johnson",
+        "roll": "CSE001",
+        "subject_code": "CSE103",
+        "branch": "CSE"
+    },
+    {
+        "name": "Ava Smith",
+        "roll": "CSE002",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "Noah Williams",
+        "roll": "CSE003",
+        "subject_code": "CSE102",
+        "branch": "CSE"
+    },
+    {
+        "name": "Olivia Brown",
+        "roll": "CSE004",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "Liam Jones",
+        "roll": "CSE005",
+        "subject_code": "CSE103",
+        "branch": "CSE"
+    },
+    {
+        "name": "Emma Davis",
+        "roll": "CSE006",
+        "subject_code": "CSE102",
+        "branch": "CSE"
+    },
+    {
+        "name": "Mason Wilson",
+        "roll": "CSE007",
+        "subject_code": "CSE102",
+        "branch": "CSE"
+    },
+    {
+        "name": "Sophia Taylor",
+        "roll": "CSE008",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "Lucas Martinez",
+        "roll": "CSE009",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "Isabella Anderson",
+        "roll": "CSE010",
+        "subject_code": "CSE103",
+        "branch": "CSE"
+    },
+    {
+        "name": "Oliver Thomas",
+        "roll": "CSE011",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "Mia Jackson",
+        "roll": "CSE012",
+        "subject_code": "CSE102",
+        "branch": "CSE"
+    },
+    {
+        "name": "Elijah Harris",
+        "roll": "CSE013",
+        "subject_code": "CSE103",
+        "branch": "CSE"
+    },
+    {
+        "name": "Amelia White",
+        "roll": "CSE014",
+        "subject_code": "CSE103",
+        "branch": "CSE"
+    },
+    {
+        "name": "James Lopez",
+        "roll": "CSE015",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "Harper Lee",
+        "roll": "CSE016",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "Benjamin Martin",
+        "roll": "CSE017",
+        "subject_code": "CSE102",
+        "branch": "CSE"
+    },
+    {
+        "name": "Charlotte Clark",
+        "roll": "CSE018",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "William Lewis",
+        "roll": "CSE019",
+        "subject_code": "CSE103",
+        "branch": "CSE"
+    },
+    {
+        "name": "Abigail Hall",
+        "roll": "CSE020",
+        "subject_code": "CSE102",
+        "branch": "CSE"
+    },
+    {
+        "name": "Alexander Walker",
+        "roll": "CSE021",
+        "subject_code": "CSE102",
+        "branch": "CSE"
+    },
+    {
+        "name": "Elizabeth Perez",
+        "roll": "CSE022",
+        "subject_code": "CSE103",
+        "branch": "CSE"
+    },
+    {
+        "name": "Michael Green",
+        "roll": "CSE023",
+        "subject_code": "CSE102",
+        "branch": "CSE"
+    },
+    {
+        "name": "Emily Hill",
+        "roll": "CSE024",
+        "subject_code": "CSE103",
+        "branch": "CSE"
+    },
+    {
+        "name": "Daniel Roberts",
+        "roll": "CSE025",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "Grace Phillips",
+        "roll": "CSE026",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "Henry Edwards",
+        "roll": "CSE027",
+        "subject_code": "CSE103",
+        "branch": "CSE"
+    },
+    {
+        "name": "Avery Turner",
+        "roll": "CSE028",
+        "subject_code": "CSE102",
+        "branch": "CSE"
+    },
+    {
+        "name": "Jackson Torres",
+        "roll": "CSE029",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "Sofia Evans",
+        "roll": "CSE030",
+        "subject_code": "CSE103",
+        "branch": "CSE"
+    },
+    {
+        "name": "Sebastian Garcia",
+        "roll": "CSE031",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "Chloe Mitchell",
+        "roll": "CSE032",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "Aiden Scott",
+        "roll": "CSE033",
+        "subject_code": "CSE102",
+        "branch": "CSE"
+    },
+    {
+        "name": "Scarlett Baker",
+        "roll": "CSE034",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "Matthew Nelson",
+        "roll": "CSE035",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "Lily Adams",
+        "roll": "CSE036",
+        "subject_code": "CSE103",
+        "branch": "CSE"
+    },
+    {
+        "name": "Samuel Rivera",
+        "roll": "CSE037",
+        "subject_code": "CSE102",
+        "branch": "CSE"
+    },
+    {
+        "name": "Zoey Campbell",
+        "roll": "CSE038",
+        "subject_code": "CSE101",
+        "branch": "CSE"
+    },
+    {
+        "name": "David Carter",
+        "roll": "ELE001",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Madison Ramirez",
+        "roll": "ELE002",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Carter Reed",
+        "roll": "ELE003",
+        "subject_code": "EE101",
+        "branch": "ELE"
+    },
+    {
+        "name": "Penelope Parker",
+        "roll": "ELE004",
+        "subject_code": "EE102",
+        "branch": "ELE"
+    },
+    {
+        "name": "Mateo Gray",
+        "roll": "ELE005",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Victoria James",
+        "roll": "ELE006",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Wyatt Bennett",
+        "roll": "ELE007",
+        "subject_code": "EE102",
+        "branch": "ELE"
+    },
+    {
+        "name": "Riley Wright",
+        "roll": "ELE008",
+        "subject_code": "EE101",
+        "branch": "ELE"
+    },
+    {
+        "name": "Jack Cooper",
+        "roll": "ELE009",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Nora Collins",
+        "roll": "ELE010",
+        "subject_code": "EE101",
+        "branch": "ELE"
+    },
+    {
+        "name": "Leo Gomez",
+        "roll": "ELE011",
+        "subject_code": "EE101",
+        "branch": "ELE"
+    },
+    {
+        "name": "Eleanor Kelly",
+        "roll": "ELE012",
+        "subject_code": "EE101",
+        "branch": "ELE"
+    },
+    {
+        "name": "Isaac Bailey",
+        "roll": "ELE013",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Hannah Cox",
+        "roll": "ELE014",
+        "subject_code": "EE102",
+        "branch": "ELE"
+    },
+    {
+        "name": "Gabriel Murphy",
+        "roll": "ELE015",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Skylar Russell",
+        "roll": "ELE016",
+        "subject_code": "EE102",
+        "branch": "ELE"
+    },
+    {
+        "name": "Julian Coleman",
+        "roll": "ELE017",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Addison Price",
+        "roll": "ELE018",
+        "subject_code": "EE102",
+        "branch": "ELE"
+    },
+    {
+        "name": "Levi Hughes",
+        "roll": "ELE019",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Aubrey Long",
+        "roll": "ELE020",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Owen Foster",
+        "roll": "ELE021",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Brooklyn Sanders",
+        "roll": "ELE022",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Lincoln Ross",
+        "roll": "ELE023",
+        "subject_code": "EE101",
+        "branch": "ELE"
+    },
+    {
+        "name": "Samantha Price",
+        "roll": "ELE024",
+        "subject_code": "EE102",
+        "branch": "ELE"
+    },
+    {
+        "name": "John Morris",
+        "roll": "ELE025",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Layla Simmons",
+        "roll": "ELE026",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Ryan Jenkins",
+        "roll": "ELE027",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Audrey Perry",
+        "roll": "ELE028",
+        "subject_code": "EE101",
+        "branch": "ELE"
+    },
+    {
+        "name": "Nathan Butler",
+        "roll": "ELE029",
+        "subject_code": "EE101",
+        "branch": "ELE"
+    },
+    {
+        "name": "Claire Barnes",
+        "roll": "ELE030",
+        "subject_code": "EE101",
+        "branch": "ELE"
+    },
+    {
+        "name": "Caleb Fisher",
+        "roll": "ELE031",
+        "subject_code": "EE102",
+        "branch": "ELE"
+    },
+    {
+        "name": "Lila Woods",
+        "roll": "ELE032",
+        "subject_code": "EE101",
+        "branch": "ELE"
+    },
+    {
+        "name": "Isaiah Simmons",
+        "roll": "ELE033",
+        "subject_code": "EE102",
+        "branch": "ELE"
+    },
+    {
+        "name": "Ariana Barnes",
+        "roll": "ELE034",
+        "subject_code": "EE103",
+        "branch": "ELE"
+    },
+    {
+        "name": "Josiah Fisher",
+        "roll": "ELE035",
+        "subject_code": "EE101",
+        "branch": "ELE"
+    },
+    {
+        "name": "Kylie Woods",
+        "roll": "ELE036",
+        "subject_code": "EE102",
+        "branch": "ELE"
+    },
+    {
+        "name": "Christian Simmons",
+        "roll": "ELE037",
+        "subject_code": "EE101",
+        "branch": "ELE"
+    },
+    {
+        "name": "Elena Barnes",
+        "roll": "ELE038",
+        "subject_code": "EE101",
+        "branch": "ELE"
+    },
+    {
+        "name": "Landon Fisher",
+        "roll": "MEC001",
+        "subject_code": "ME101",
+        "branch": "MEC"
+    },
+    {
+        "name": "Alexa Woods",
+        "roll": "MEC002",
+        "subject_code": "ME102",
+        "branch": "MEC"
+    },
+    {
+        "name": "Jonathan Simmons",
+        "roll": "MEC003",
+        "subject_code": "ME102",
+        "branch": "MEC"
+    },
+    {
+        "name": "Makayla Barnes",
+        "roll": "MEC004",
+        "subject_code": "ME103",
+        "branch": "MEC"
+    },
+    {
+        "name": "Hunter Fisher",
+        "roll": "MEC005",
+        "subject_code": "ME102",
+        "branch": "MEC"
+    },
+    {
+        "name": "Aaliyah Woods",
+        "roll": "MEC006",
+        "subject_code": "ME101",
+        "branch": "MEC"
+    },
+    {
+        "name": "Eli Simmons",
+        "roll": "MEC007",
+        "subject_code": "ME101",
+        "branch": "MEC"
+    },
+    {
+        "name": "Londyn Barnes",
+        "roll": "MEC008",
+        "subject_code": "ME102",
+        "branch": "MEC"
+    },
+    {
+        "name": "Aaron Fisher",
+        "roll": "MEC009",
+        "subject_code": "ME103",
+        "branch": "MEC"
+    },
+    {
+        "name": "Gabriella Woods",
+        "roll": "MEC010",
+        "subject_code": "ME103",
+        "branch": "MEC"
+    },
+    {
+        "name": "Connor Simmons",
+        "roll": "MEC011",
+        "subject_code": "ME102",
+        "branch": "MEC"
+    },
+    {
+        "name": "Ayla Barnes",
+        "roll": "MEC012",
+        "subject_code": "ME101",
+        "branch": "MEC"
+    },
+    {
+        "name": "Charles Fisher",
+        "roll": "MEC013",
+        "subject_code": "ME101",
+        "branch": "MEC"
+    },
+    {
+        "name": "Naomi Woods",
+        "roll": "MEC014",
+        "subject_code": "ME103",
+        "branch": "MEC"
+    },
+    {
+        "name": "Evan Simmons",
+        "roll": "MEC015",
+        "subject_code": "ME103",
+        "branch": "MEC"
+    },
+    {
+        "name": "Arianna Barnes",
+        "roll": "MEC016",
+        "subject_code": "ME102",
+        "branch": "MEC"
+    },
+    {
+        "name": "Eli Fisher",
+        "roll": "MEC017",
+        "subject_code": "ME103",
+        "branch": "MEC"
+    },
+    {
+        "name": "Valeria Woods",
+        "roll": "MEC018",
+        "subject_code": "ME102",
+        "branch": "MEC"
+    },
+    {
+        "name": "Jaxon Simmons",
+        "roll": "MEC019",
+        "subject_code": "ME101",
+        "branch": "MEC"
+    },
+    {
+        "name": "Mila Barnes",
+        "roll": "MEC020",
+        "subject_code": "ME101",
+        "branch": "MEC"
+    },
+    {
+        "name": "Jaxon Fisher",
+        "roll": "MEC021",
+        "subject_code": "ME103",
+        "branch": "MEC"
+    },
+    {
+        "name": "Eva Woods",
+        "roll": "MEC022",
+        "subject_code": "ME103",
+        "branch": "MEC"
+    },
+    {
+        "name": "Jordan Simmons",
+        "roll": "MEC023",
+        "subject_code": "ME101",
+        "branch": "MEC"
+    },
+    {
+        "name": "Luna Barnes",
+        "roll": "MEC024",
+        "subject_code": "ME101",
+        "branch": "MEC"
+    },
+    {
+        "name": "Jace Fisher",
+        "roll": "MEC025",
+        "subject_code": "ME102",
+        "branch": "MEC"
+    },
+    {
+        "name": "Jade Woods",
+        "roll": "MEC026",
+        "subject_code": "ME101",
+        "branch": "MEC"
+    },
+    {
+        "name": "Julian Simmons",
+        "roll": "MEC027",
+        "subject_code": "ME102",
+        "branch": "MEC"
+    },
+    {
+        "name": "Ariana Barnes",
+        "roll": "MEC028",
+        "subject_code": "ME102",
+        "branch": "MEC"
+    },
+    {
+        "name": "Jase Fisher",
+        "roll": "MEC029",
+        "subject_code": "ME102",
+        "branch": "MEC"
+    },
+    {
+        "name": "Luna Woods",
+        "roll": "MEC030",
+        "subject_code": "ME102",
+        "branch": "MEC"
+    },
+    {
+        "name": "Eli Simmons",
+        "roll": "MEC031",
+        "subject_code": "ME101",
+        "branch": "MEC"
+    },
+    {
+        "name": "Ayla Barnes",
+        "roll": "MEC032",
+        "subject_code": "ME103",
+        "branch": "MEC"
+    },
+    {
+        "name": "Jax Fisher",
+        "roll": "MEC033",
+        "subject_code": "ME103",
+        "branch": "MEC"
+    },
+    {
+        "name": "Jade Woods",
+        "roll": "MEC034",
+        "subject_code": "ME101",
+        "branch": "MEC"
+    },
+    {
+        "name": "Jordan Simmons",
+        "roll": "MEC035",
+        "subject_code": "ME101",
+        "branch": "MEC"
+    },
+    {
+        "name": "Mila Barnes",
+        "roll": "MEC036",
+        "subject_code": "ME103",
+        "branch": "MEC"
+    },
+    {
+        "name": "Jaxon Fisher",
+        "roll": "MEC037",
+        "subject_code": "ME103",
+        "branch": "MEC"
+    },
+    {
+        "name": "Eva Woods",
+        "roll": "MEC038",
+        "subject_code": "ME102",
+        "branch": "MEC"
+    },
+    {
+        "name": "Julian Simmons",
+        "roll": "CIV001",
+        "subject_code": "CE102",
+        "branch": "CIV"
+    },
+    {
+        "name": "Luna Barnes",
+        "roll": "CIV002",
+        "subject_code": "CE102",
+        "branch": "CIV"
+    },
+    {
+        "name": "Jace Fisher",
+        "roll": "CIV003",
+        "subject_code": "CE103",
+        "branch": "CIV"
+    },
+    {
+        "name": "Naomi Woods",
+        "roll": "CIV004",
+        "subject_code": "CE102",
+        "branch": "CIV"
+    },
+    {
+        "name": "Eli Simmons",
+        "roll": "CIV005",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Ariana Barnes",
+        "roll": "CIV006",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Jase Fisher",
+        "roll": "CIV007",
+        "subject_code": "CE103",
+        "branch": "CIV"
+    },
+    {
+        "name": "Valeria Woods",
+        "roll": "CIV008",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Jordan Simmons",
+        "roll": "CIV009",
+        "subject_code": "CE103",
+        "branch": "CIV"
+    },
+    {
+        "name": "Ayla Barnes",
+        "roll": "CIV010",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Jax Fisher",
+        "roll": "CIV011",
+        "subject_code": "CE103",
+        "branch": "CIV"
+    },
+    {
+        "name": "Gabriella Woods",
+        "roll": "CIV012",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Julian Simmons",
+        "roll": "CIV013",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Mila Barnes",
+        "roll": "CIV014",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Jaxon Fisher",
+        "roll": "CIV015",
+        "subject_code": "CE102",
+        "branch": "CIV"
+    },
+    {
+        "name": "Aaliyah Woods",
+        "roll": "CIV016",
+        "subject_code": "CE103",
+        "branch": "CIV"
+    },
+    {
+        "name": "Eli Simmons",
+        "roll": "CIV017",
+        "subject_code": "CE103",
+        "branch": "CIV"
+    },
+    {
+        "name": "Luna Barnes",
+        "roll": "CIV018",
+        "subject_code": "CE102",
+        "branch": "CIV"
+    },
+    {
+        "name": "Jace Fisher",
+        "roll": "CIV019",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Eva Woods",
+        "roll": "CIV020",
+        "subject_code": "CE103",
+        "branch": "CIV"
+    },
+    {
+        "name": "Jordan Simmons",
+        "roll": "CIV021",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Ariana Barnes",
+        "roll": "CIV022",
+        "subject_code": "CE102",
+        "branch": "CIV"
+    },
+    {
+        "name": "Jase Fisher",
+        "roll": "CIV023",
+        "subject_code": "CE102",
+        "branch": "CIV"
+    },
+    {
+        "name": "Jade Woods",
+        "roll": "CIV024",
+        "subject_code": "CE102",
+        "branch": "CIV"
+    },
+    {
+        "name": "Julian Simmons",
+        "roll": "CIV025",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Ayla Barnes",
+        "roll": "CIV026",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Jax Fisher",
+        "roll": "CIV027",
+        "subject_code": "CE102",
+        "branch": "CIV"
+    },
+    {
+        "name": "Naomi Woods",
+        "roll": "CIV028",
+        "subject_code": "CE102",
+        "branch": "CIV"
+    },
+    {
+        "name": "Eli Simmons",
+        "roll": "CIV029",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Mila Barnes",
+        "roll": "CIV030",
+        "subject_code": "CE102",
+        "branch": "CIV"
+    },
+    {
+        "name": "Jaxon Fisher",
+        "roll": "CIV031",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Valeria Woods",
+        "roll": "CIV032",
+        "subject_code": "CE102",
+        "branch": "CIV"
+    },
+    {
+        "name": "Jordan Simmons",
+        "roll": "CIV033",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Luna Barnes",
+        "roll": "CIV034",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Jace Fisher",
+        "roll": "CIV035",
+        "subject_code": "CE103",
+        "branch": "CIV"
+    },
+    {
+        "name": "Gabriella Woods",
+        "roll": "CIV036",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    },
+    {
+        "name": "Eli Simmons",
+        "roll": "CIV037",
+        "subject_code": "CE103",
+        "branch": "CIV"
+    },
+    {
+        "name": "Ariana Barnes",
+        "roll": "CIV038",
+        "subject_code": "CE101",
+        "branch": "CIV"
+    }
+]

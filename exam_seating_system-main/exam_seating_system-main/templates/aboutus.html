@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>About</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="/static/homee.css">
+
+  </style>
+</head>
+
+<body>
+  <div class="topnav">
+    <a href="/">Home</a>
+    <a href="/login">Login</a>
+
+    <a class="active" href="/aboutus">About</a>
+    <a href="/seatingplan">Seating Plan</a>
+    {% if logged_in %}
+    <a href="{{ url_for('logout') }}" style="float:right;">Logout</a>
+    {% else %}
+    <a href="{{ url_for('login') }}" style="float:right;">Login</a>
+    {% endif %}
+  </div>
+
+
+
+  <h1>MEET OUR GROUP MEMBERS</h1>
+  <br>
+
+  <div class="row">
+    <div class="column">
+      <div class="card">
+        <img src="/static/images/sneha.jpeg" alt="Sneha" style="width:100%">
+        <div class="container">
+          <h2>SNEHA ANN SAMUEL</h2>
+          <p class="title">STUDENT,S6 CSE</p>
+
+
+          <p><button class="button">Contact</button></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="column">
+        <div class="card">
+          <img src="/static/images/nandana1.jpeg" alt="Nandana" style="width:100%">
+          <div class="container">
+            <h2>NANDANA REGHU</h2>
+            <p class="title">STUDENT,S6 CSE</p>
+
+
+            <p><button class="button">Contact</button></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="column">
+          <div class="card">
+            <img src="/static/images/maeve1.jpeg" alt="Maeve" style="width:100%">
+            <div class="container">
+              <h2>MAEVE ANN VARGHESE</h2>
+              <p class="title">STUDENT,S6 CSE</p>
+
+
+              <p><button class="button">Contact</button></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="column">
+            <div class="card">
+              <img src="/static/images/tinu.jpeg" alt="Tinu" style="width:100%">
+              <div class="container">
+                <h2>TINU MERIN SKARIAH</h2>
+                <p class="title">STUDENT,S6 CSE</p>
+
+
+                <p><button class="button">Contact</button></p>
+              </div>
+            </div>
+          </div>
+
+</body>
+
+</html>

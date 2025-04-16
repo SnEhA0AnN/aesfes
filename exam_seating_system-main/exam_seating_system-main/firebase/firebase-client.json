@@ -1,0 +1,10 @@
+{
+    "apiKey": "AIzaSyDXxVrVOqEMXOpht3YMEjqyVwW7KPmqVok",
+    "authDomain": "exam-seating-system.firebaseapp.com",
+    "projectId": "exam-seating-system",
+    "storageBucket": "exam-seating-system.appspot.com",
+    "messagingSenderId": "271076206800",
+    "appId": "1:271076206800:web:14989bed2ef48cb756d6d5",
+    "measurementId": "G-Q2YMZ8EW01",
+    "databaseURL": "https://exam-seating-system-default-rtdb.firebaseio.com/"
+}

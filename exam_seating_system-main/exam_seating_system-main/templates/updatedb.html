@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Updating Database</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/static/homee.css">
+    <style>
+        /* Your existing styles here */
+
+        /* Style for upload buttons */
+        .upload-btn {
+            display: block;
+            margin: 20px auto;
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .upload-btn:hover {
+            background-color: #45a049;
+        }
+
+        /* Style for selected files preview */
+        #selected-files {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        #selected-files ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        #selected-files ul li {
+            margin-bottom: 10px;
+        }
+
+        /* Additional UI improvements */
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+            color: #333;
+            text-align: center;
+        }
+
+        p {
+            font-size: 18px;
+            color: #555;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="topnav">
+        <a class="active" href="/">Home</a>
+        <a href="/login">Login</a>
+        <a href="aboutus">About</a>
+        <a href="/seatingplan">Seating Plan</a>
+        {% if logged_in %}
+        <a href="{{ url_for('logout') }}" style="float:right;">Logout</a>
+        {% else %}
+        <a href="{{ url_for('login') }}" style="float:right;">Login</a>
+        {% endif %}
+    </div>
+    <div class="container">
+        <h1>Upload student_db.json, faculty_data.csv, and room_db.json files to update the database.</h1>
+
+        <!-- dynamic error msg in case all files are not uploaded -->
+        {% if error %}
+        <p style="color: red;">{{ error }}</p>
+        {% endif %}
+
+        <form class="upload-form" action="/upload" method="POST" enctype="multipart/form-data">
+            <label for="files" class="upload-btn">Select Files to Upload</label>
+            <input type="file" name="files" id="files" multiple style="display: none;">
+            <input type="submit" value="Upload and Generate Seating Plan" class="upload-btn">
+        </form>
+
+        <div id="selected-files">
+            <h2>Selected Files:</h2>
+            <ul id="file-list"></ul>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script>
+        document.getElementById('files').addEventListener('change', function () {
+            var files = document.getElementById('files').files;
+            var fileList = '';
+            for (var i = 0; i < files.length; i++) {
+                fileList += '<li>' + files[i].name + '</li>';
+            }
+            document.getElementById('file-list').innerHTML = fileList;
+        });
+    </script>
+</body>
+
+</html>
